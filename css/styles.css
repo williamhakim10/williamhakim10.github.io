@@ -39,10 +39,6 @@ html, body, .wrapper, .container-fluid, .title-row {
     flex-direction: column;
 }
 
-.title-row .col-xs-12 {
-	margin-bottom: 2.5%;
-}
-
 .title-row .col-xs-12 h1 {
 	margin-top: 0px;
 	font-size: 40px;
@@ -87,7 +83,8 @@ html, body, .wrapper, .container-fluid, .title-row {
 	color: rgba(255,255,255,.75);
 }
 
-.social-icons a:visited, .social-icons a:hover, .social-icons a:active, .social-icons a:focus {
+.social-icons a:visited, .social-icons a:hover, 
+.social-icons a:active, .social-icons a:focus {
 	text-decoration: none !important;
 }
 
